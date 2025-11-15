@@ -41,4 +41,4 @@ Coleção de modelos, widgets e componentes para Elementor criados para acelerar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/profadevairvitorio/elementor-models.git
+   git clone https://github.com/profadevairvitorio/my-models-elementor.git
